@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.kvsmtouuched.androidexample"
+    versionCode = "10"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>Ketchup VS Mustard Touched</name>
+
+  <description>
+      It's fun, it's endless, it's now on your device! Two rivals, Ketchup and Mustard are back, they can now talk, and you are able to choose who's BOSS! Drag your sauce with your finger to get so many points if you can.
+  </description>
+
+  <author href="https://www.youtube.com/channel/UC-JKIGYyFrVv7ttiIhmtI6Q" email="chukoloco08@gmail.com">
+      Sawyer Ique
+  </author>
+
+<icon src="icon.png" />
+
+</widget>
